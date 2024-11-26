@@ -9,4 +9,18 @@
 	
 
 ## 电脑的软件设置
-颜色管理（Color/Colour Management)
+### 颜色管理（Color/Colour Management)
+#### SDR 档案添加（高色准） 
+![image](https://github.com/user-attachments/assets/98a09f9b-8075-4b8a-aab5-e703772843be)
+SDR Profile Credits to Rtings（感谢Rtings制作的SDR校色文件）: https://www.rtings.com/monitor/reviews/dell/s3422dwg
+
+#### HDR 档案添加（打游戏用）
+如果暗区太暗了，看不清，或者整体屏幕太阴暗不习惯，选择较低的Gamma
+如果屏幕发灰，觉得黑色部分不够深沉，完全能看清暗部细节，选择较高的Gamma
+校准文件是跟着这位油管老哥做的：https://www.youtube.com/watch?v=pz9HXjhF4qk&t=319s
+![image](https://github.com/user-attachments/assets/edec1b6d-f6ee-467c-bab7-480c54679f60)
+
+### Adaptive Sync/G-Sync/防撕裂
+-- To be researched.
+
+
