@@ -15,9 +15,11 @@
 SDR Profile Credits to Rtings（感谢Rtings制作的SDR校色文件）: https://www.rtings.com/monitor/reviews/dell/s3422dwg
 
 #### HDR 档案添加（打游戏用）
+！！如果电脑的系统是Windows 11，请使用Windows 11 HDR Calibration，效果会更好. https://support.microsoft.com/zh-cn/windows/%E4%BD%BF%E7%94%A8-windows-hdr-%E6%A0%A1%E5%87%86%E5%BA%94%E7%94%A8%E6%A0%A1%E5%87%86-hdr-%E6%98%BE%E7%A4%BA-f30f4809-3369-43e4-9b02-9eabebd23f19
+win10 用户请继续往下看
 如果暗区太暗了，看不清，或者整体屏幕太阴暗不习惯，选择较低的Gamma
 如果屏幕发灰，觉得黑色部分不够深沉，完全能看清暗部细节，选择较高的Gamma
-校准文件是跟着这位油管老哥做的：https://www.youtube.com/watch?v=pz9HXjhF4qk&t=319s
+校准文件是跟着这位油管老哥做的，我只对Gamma值做出了改动：https://www.youtube.com/watch?v=pz9HXjhF4qk&t=319s
 ![image](https://github.com/user-attachments/assets/edec1b6d-f6ee-467c-bab7-480c54679f60)
 
 ### Adaptive Sync/G-Sync/防撕裂
