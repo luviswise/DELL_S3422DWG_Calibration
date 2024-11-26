@@ -6,6 +6,7 @@
 	- 显示 - Smart HDR
 		○ 打游戏的话 选择 桌面 办公/设计的话选择 关 （为了更高的色准需要关闭HDR
 	- 游戏 - 响应时间选择超快
+ 	- 游戏 - 如果GPU使用的不是AMD，关闭AMD FreeSync Premium (因为我测试发现打开后不支持G-Sync Compatible），也就不支持防撕裂技术了
 	
 
 ## 电脑的软件设置
