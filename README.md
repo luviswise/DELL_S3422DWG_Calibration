@@ -27,6 +27,10 @@ https://support.microsoft.com/zh-cn/windows/%E4%BD%BF%E7%94%A8-windows-hdr-%E6%A
 ![image](https://github.com/user-attachments/assets/edec1b6d-f6ee-467c-bab7-480c54679f60)
 
 ### Adaptive Sync/G-Sync/防撕裂
--- To be researched.
+- 显卡是AMD的 或者只使用AMD核芯显卡的无需改变设置。
+- 桌面右键打开Nvidia控制面板，确保显示器启用了G-Sync Compatible
+![image](https://github.com/user-attachments/assets/96e3aef9-3bd1-4a82-abeb-83768557d8a7)
+![image](https://github.com/user-attachments/assets/b3a7103a-1a37-4f12-a5a6-1b354dc7079d)
+
 
 
