@@ -1,5 +1,7 @@
 # DELL_S3422DWG_Calibration
-## 显示器的硬件设置
+业余玩家，不构成专业建议。欢迎评论。  
+
+## 显示器自带菜单设置
 	- 打开显示器的设置菜单
 	- 确保已恢复出厂设置，可以重新还原一下
 	- 取决于用来打游戏还是办公/设计
@@ -9,7 +11,7 @@
  	- 游戏 - 如果GPU使用的不是AMD，关闭AMD FreeSync Premium (因为我测试发现打开后不支持G-Sync Compatible），也就不支持防撕裂技术了
 	
 
-## 电脑的软件设置
+## 电脑上建议进行的设置
 ### 颜色管理（Color/Colour Management)
 #### SDR 档案添加（高色准） 
 ![image](https://github.com/user-attachments/assets/98a09f9b-8075-4b8a-aab5-e703772843be)
