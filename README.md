@@ -8,7 +8,6 @@
 	- 显示 - Smart HDR
 		○ 打游戏的话 选择 桌面 办公/设计的话选择 关 （为了更高的色准需要关闭HDR
 	- 游戏 - 响应时间选择超快
- 	- 游戏 - 如果GPU使用的不是AMD，关闭AMD FreeSync Premium (因为我测试发现打开后不支持G-Sync Compatible），也就不支持防撕裂技术了
 	
 
 ## 电脑上建议进行的设置
@@ -31,8 +30,9 @@ https://support.microsoft.com/zh-cn/windows/%E4%BD%BF%E7%94%A8-windows-hdr-%E6%A
 ### Adaptive Sync/G-Sync/防撕裂
 - 显卡是AMD的 或者只使用AMD核芯显卡的无需改变设置。
 - 桌面右键打开Nvidia控制面板，确保显示器启用了G-Sync Compatible
-![image](https://github.com/user-attachments/assets/96e3aef9-3bd1-4a82-abeb-83768557d8a7)
-![image](https://github.com/user-attachments/assets/b3a7103a-1a37-4f12-a5a6-1b354dc7079d)
+![image](https://github.com/user-attachments/assets/615e0ab4-6411-4780-a88b-5d8eff47eb6b)
+
+Reference: ![link](https://www.youtube.com/watch?v=oDFo2FNqyt8)
 
 
 
